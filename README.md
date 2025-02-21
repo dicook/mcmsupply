@@ -8,10 +8,7 @@
 
 ## Installation
 
-The package can be installed by cloning this repository `git clone https://github.com/hannahcomiskey/mcmsupply.git` and then running  `devtools::install()`
-
-or using the R command `install.packages("mcmsupply")`
-
+The package can be installed from CRAN using `install.packages("mcmsupply")` and the development version of the package can be installed from GitHub using `pak::pkg_install("hannahcomiskey/mcmsupply")`.
 
 ## Motivation
 
